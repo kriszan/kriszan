@@ -27,27 +27,35 @@ Hi! I'm Kriszan currently studying software development in a technical school.
 </table>  
 
 ## Github Stats  
+<div>
 <img src="https://github-readme-stats.vercel.app/api?username=kriszan&show_icons=true&count_private=true&hide_border=true" align="left" />  
 <div align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kriszan&hide_border=true&layout=compact" align="center" />
 </div>  
-<br/>  
+</div>
+</br></br></br>
 
-<div align="center">
-    <img src="https://komarev.com/ghpvc/?username=kriszan&&style=flat-square" align="center" />
-</div>  
-
-
-<div align="left">
-    <h2>Contact Me</h2>h2
+<div align="left!important">
+    <h2>Contact Me</h2>
 <a href="https://github.com/kriszan" target="_blank">
     <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a> 
+<a href="https://www.linkedin.com/in/kriszti%C3%A1n-sz%C3%A1vai-b49531319/" target="_blank">
+    <img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white style="margin-bottom: 5px;" />
 </a>  
-</div>  
+</div>
+
+<div align="right">
+    <img src="https://komarev.com/ghpvc/?username=kriszan&&style=flat-square" align="right" />
+</div>
+
 
 <details closed>
   <summary>Credits</summary>
     <div align="left">
       Image sources: <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a>
+    </div>
+    <div align="left">
+      Header generator: <a href="https://leviarista.github.io/github-profile-header-generator/" target="_blank">Leviarista</a>
     </div>
 </details>
