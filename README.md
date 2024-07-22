@@ -1,4 +1,5 @@
-# Profile
+![Header](./github-header-image.png)
+## Profile
 Hi! I'm Kriszan currently studying software development in a technical school.
 ## My Skills  
 <table align="center">
