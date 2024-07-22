@@ -1,6 +1,6 @@
 # Profile
-Hi! I'm Kriszan
-## My Skill Set  
+Hi! I'm Kriszan currently studying software development in a technical school.
+## My Skills  
 <table align="center">
     <tr>
       <td valign="top" width="50%">
@@ -28,19 +28,20 @@ Hi! I'm Kriszan
 
 ## Github Stats  
 <img src="https://github-readme-stats.vercel.app/api?username=kriszan&show_icons=true&count_private=true&hide_border=true" align="left" />  
-
-<div align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kriszan&hide_border=true&layout=compact" align="center" /></div>  
-
+<div align="left">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kriszan&hide_border=true&layout=compact" align="center" />
+</div>  
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=kriszan&&style=flat-square" align="center" />
+    <img src="https://komarev.com/ghpvc/?username=kriszan&&style=flat-square" align="center" />
 </div>  
 
-## Contact me
-<div align="center">
+
+<div align="left">
+    <h2>Contact Me</h2>h2
 <a href="https://github.com/kriszan" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+    <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
 </div>  
 
